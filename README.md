@@ -1,6 +1,6 @@
 # p5.js Template
 
-This is a template for creating p5.js sketches. It includes a basic HTML file, a sketch.js file.
+This is a template for creating p5.js sketches. It includes a basic HTML file, a CSS file, and a JavaScript file.
 
 The template contains a simple sketch that draws a circles on the canvas.
 
